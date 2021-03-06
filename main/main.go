@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/jacobsa/go-serial/serial"
-	"github.com/adrianmo/go-nmea"
+	"github.com/talkkonnect/go-nmea"
 	"log"
 )
 
